@@ -89,6 +89,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -   Created Redux Store with userSlice
 -   Implemented Sign Out
 -   Update Profile
+-   Bug-fixex: if user is not logged in redirect it to signin/browser pages accordingly
+-   unsubscribing to the onAuthStateChanged callback
+-   added hardcoded values to the constants file
+-   Registerd to TMDB API & create an app and get access token
+-   set data from TMDB now playing movies list API
+-   custom hook for now playing movies
+-   created movie slice
+-   update store with movies data
+-   planning for Main container and secondary container
+-   Featch data for Trailer video
+-   Update store with Trailer Video Data
+-   Embeded the youtube Video and make it autoplay and mute
+-   Tailwind classes too make Main container to look awesome
 
 ## Features
 
@@ -105,3 +118,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -   NetflixGPT
     -   Search Bar
     -   Movie Suggestions
+
+## planning
+
+-   MainContainer
+    -   VideoBackground
+    -   VideoTitle
+-   SecondaryContainer
+    -   MovieList \* n
+        -   cards \* n
