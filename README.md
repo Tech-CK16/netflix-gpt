@@ -102,6 +102,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -   Update store with Trailer Video Data
 -   Embeded the youtube Video and make it autoplay and mute
 -   Tailwind classes too make Main container to look awesome
+-   Build Secondary Component
 
 ## Features
 
@@ -125,5 +126,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     -   VideoBackground
     -   VideoTitle
 -   SecondaryContainer
-    -   MovieList \* n
+    -   MovieList \* n (Popular, Now PLaying, Trending, Horror)
         -   cards \* n
