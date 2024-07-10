@@ -108,6 +108,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -   TMDB Image CDN URL
 -   Made the browser page amazing using tailwind
 -   usePopularMovies Custom Hook
+-   GPT Search feature
+-   GPT Search Page
+-   GPT Search Bar
+-   Multi-language Feature in our App (\*)
 
 ## Features
 
