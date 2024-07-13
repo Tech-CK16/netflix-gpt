@@ -1,6 +1,6 @@
 import { signOut, onAuthStateChanged } from 'firebase/auth';
 import { auth } from '../utils/firebase';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';

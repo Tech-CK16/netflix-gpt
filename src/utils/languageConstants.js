@@ -1,15 +1,18 @@
 const lang = {
     en: {
         search: 'Search',
-        gptSearchPlaceholder: 'What would you like to watch today?',
+        gptSearchPlaceholder:
+            'Enter The Movie Name. Separate with comma for multiple movie search',
     },
     hindi: {
         search: 'खोज',
-        gptSearchPlaceholder: 'आज आप क्या देखना चाहेंगे?',
+        gptSearchPlaceholder:
+            'मूवी का नाम दर्ज करें. एकाधिक मूवी खोज के लिए अल्पविराम से अलग करें.',
     },
     spanish: {
         search: 'buscar',
-        gptSearchPlaceholder: '¿Qué te gustaría ver hoy?',
+        gptSearchPlaceholder:
+            'Ingrese el nombre de la película. Separe con coma para buscar varias películas.',
     },
 };
 
